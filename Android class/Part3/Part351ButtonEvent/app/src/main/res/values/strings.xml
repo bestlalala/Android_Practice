@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Part3-5-1-ButtonEvent</string>
+    <string name="rgbtext">RGB(255, 255, 255)</string>
+    <string name="button">Button</string>
+</resources>

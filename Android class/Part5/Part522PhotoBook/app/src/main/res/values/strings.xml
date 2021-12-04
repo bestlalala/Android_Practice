@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Part5-2-2-PhotoBook</string>
+
+    <string name="title01">ToyStory</string>
+    <string name="artist01">1. Jessy</string>
+    <string name="picture01">pic1</string>
+    <string name="title02">ToyStory</string>
+    <string name="artist02">2. Rex</string>
+    <string name="picture02">pic2</string>
+    <string name="title03">ToyStory4</string>
+    <string name="artist03">3. Forky</string>
+    <string name="picture03">pic3</string>
+
+</resources>

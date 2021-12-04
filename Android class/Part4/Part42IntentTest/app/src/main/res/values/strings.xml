@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Part4-2-IntentTest</string>
+
+    <string-array name="mainMenu">
+        <item>명시적 Intent</item>
+        <item>암시적 Intent</item>
+    </string-array>
+
+    <string-array name="intentList">
+        <item>1. ACTION_DIAL</item>
+        <item>2. ACTION_CALL</item>
+        <item>3. ACTION_SEARCH</item>
+        <item>4. ACTION_SEND[SMS]</item>
+        <item>5. ACTION_WEB_SEARCH</item>
+        <item>6. ACTION_PICK</item>
+        <item>7. ACTION_VIEW1 [web]</item>
+        <item>8. ACTION_VIEW2 [문자]</item>
+        <item>9. ACTION_VIEW3 [map]</item>
+    </string-array>
+</resources>

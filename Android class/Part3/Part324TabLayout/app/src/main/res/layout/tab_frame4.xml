@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="모바일 프로그래밍 5주차 HW"
+        android:textColor="@color/black"
+        android:textSize="13pt" />
+
+    <TextView
+        android:id="@+id/textVie2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:background="#B6E185"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:text="이름: 이연수" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="my_list">
+        <item>목록 1 </item>
+        <item>list 2</item>
+        <item>list 3</item>
+        <item>list 4</item>
+        <item>list 5</item>
+    </array>
+
+</resources>

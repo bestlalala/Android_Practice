@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Part6-2-2-SpinnerView</string>
+
+    <string-array name="movie_titles">
+        <item>백두산</item>
+        <item>라라랜드</item>
+        <item>가장 보통의 연애</item>
+        <item>엑시트</item>
+        <item>내 이름은 칸</item>
+    </string-array>
+</resources>
